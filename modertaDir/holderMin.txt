@@ -1,0 +1,8 @@
+wp-admin
+wp-login.php
+wp-login
+admin
+login
+Cpanel
+kpanel
+intergrated/login.php
